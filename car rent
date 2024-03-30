@@ -1,0 +1,70 @@
+<html style="font-family:sans-serif">
+<head>
+    <title>Аренда транспорту</title>
+</head>
+<body style="background-color:white;">
+    <p style="text-align: center"><img src="data:image/png;base64,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" width="150px"></p>
+    <p style = "text-align: center; color: #C10087;">В нас душе швидкий транспорт</p>
+    <h2 style = "color: #C10087;">Зацікавлений в оренді авто на день?</h2>
+    <p style = "text-align: center"><img src="https://toprent.ua/wp-content/uploads/2019/05/%D0%9E-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8_TopRent-1024x261.jpg" width="550px"></p>
+    <p>Зацікавлений в оренді авто на день через поломку власного автомобіля? Наша компанія пропонує оренду на день або кілька тижнів, залежно від потреб.
+
+Для оренди потрібно надати паспорт, водійське посвідчення та ІПН. Можлива оренда для осіб віком від 21 року з досвідом водіння від 2 років.
+
+Оренда включає безлімітний кілометраж, але при перевищенні передоплаченого кілометражу додаткова оплата. Застава залежить від марки автомобіля. Повертаючи авто, спеціалісти перевіряють його стан.
+
+За додаткову плату можлива доставка та повернення авто в будь-якому місці України.
+
+TopRent надає доступну оренду авто без водія, що є зручним рішенням для тих, хто потребує транспортного засобу на короткий термін.</p>
+    <h2 style = "color: #C10087;">Коли ми працюемо?</h2>
+    <table style = "border: 3px solid black; border-collapse: separate;">
+        <tr>
+            <td>День</td>
+            <td>Час відкриття</td>
+            <td>Час закриття</td>
+        </tr>
+        <tr>
+            <td style = "border: 1px solid black;">Понеділок</td>
+            <td style = "border: 1px solid black;">9:00</td>
+            <td style = "border: 1px solid black;">19:00</td>
+        </tr>
+        <tr>
+            <td style = "border: 1px solid black;">Вівторок</td>
+            <td style = "border: 1px solid black;">9:00</td>
+            <td style = "border: 1px solid black;">19:00</td>
+        </tr>
+        <tr>
+            <td style = "border: 1px solid black;">Середа</td>
+            <td style = "border: 1px solid black;">10:00</td>
+            <td style = "border: 1px solid black;">19:00</td>
+        </tr>
+        <tr>
+            <td style = "border: 1px solid black; background-color: red;color: white;">Четвер</td>
+            <td style = "border: 1px solid black; background-color: red;color: white;">Вихідний</td>
+            <td style = "border: 1px solid black; background-color: red;color: white;">День</td>
+        </tr>
+        <tr>
+            <td style = "border: 1px solid black;">П'ятниця</td>
+            <td style = "border: 1px solid black;">10:00</td>
+            <td style = "border: 1px solid black;">18:00</td>
+        </tr>
+        <tr>
+            <td style = "border: 3px solid red; background-color:red; color: white">Субота</td>
+            <td style = "border: 3px solid red;background-color: red; color: white">Вихідний</td>
+            <td style = "border: 3px solid red;background-color: red; color: white">День</td>
+        </tr>
+        <tr>
+            <td style = "border: 3px solid red;background-color: red;color: white;">Неділя</td>
+            <td style = "border: 3px solid red;background-color: red;color: white;">Вихідний</td>
+            <td style = "border: 3px solid red;background-color: red;color: white;">День</td>
+        </tr>
+    </table>
+    <h2 style = "color: #C10087;">Наша горяча лінія працюе 24/7</h2>
+    <a href="https://toprent.ua/o-kompanii-toprent">Посилання на авто</a>
+    <p style = "text-align: center; color: #C10087;"> +38 067 503 44 44
+ +38 063 554 00 00
+ +38 044 494 44 64
+КИЕВ, УЛ. АНТОНОВИЧА (ГОРЬКОГО), 112
+INFO@TOPRENT.UA</p>
+</body>
+</html>
